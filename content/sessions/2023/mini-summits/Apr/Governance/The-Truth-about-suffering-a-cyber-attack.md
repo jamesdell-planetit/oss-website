@@ -23,9 +23,6 @@ zoom_link    :
 
 
 ## About this session
-- a cyber attack
-- Get a first-hand viewpoint from one of the UK's leading MSP, VAR, Solutions Providers and Support Organisations.  
-
 ## In this session we will focus on what really happens when your business suffers a cyberattack  
 
 Get an honest understanding of: 
@@ -42,7 +39,7 @@ Get an honest understanding of:
 ## Spend this session with James Dell and have your eyes opened to the world of hurt that comes from a failure to protect your business.
 
 ## Publications:
-A number of Publications on our blog:
+You can read more about the work the Planet IT have done in this space via our the Publications on our blog:
 - https://www.planet-it.net/the-7-steps-of-a-cyber-attack-chain/ 
 - https://www.planet-it.net/ransomware-in-the-real-world-webinar/ 
 - https://www.planet-it.net/the-future-of-cybersecurity-for-business-leaders/
