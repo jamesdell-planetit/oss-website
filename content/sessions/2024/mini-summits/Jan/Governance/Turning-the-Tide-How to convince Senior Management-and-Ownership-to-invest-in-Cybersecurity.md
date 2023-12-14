@@ -38,4 +38,4 @@ We then will lastly, cover cultivate a culture of cybersecurity awareness throug
 In conclusion our talk , “Turning the tide” favours robust cybersecurity and how this requires a strategic and persuasive approach. By presenting the risks, emphasizing legal obligations, showcasing long-term benefits, aligning with business goals, and fostering a culture of awareness, we can convince senior management and ownership to make the necessary investments. Together, we can build a resilient organization that thrives in the face of evolving cyber threats."
 
 ## Publication:
-Planet IT Blog
+https://www.planet-it.net/blog/
